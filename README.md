@@ -1,3 +1,3 @@
 # zsh-ssh-agent-compat
 
-Credits go to http://ohmyz.sh/
+Credits go to https://github.com/sorin-ionescu/prezto
